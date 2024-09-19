@@ -1,4 +1,5 @@
 # Earth Data Science Portfolio
+***
 ## Seth Arens
 * seth.arens@colorado.edu
 * sear2701@github.io
