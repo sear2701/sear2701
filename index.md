@@ -8,7 +8,7 @@ Colby College, B.A., 2001. Major: Biology/Ecology and Enviornmental Policy
 
 University of Alaska Anchorage, M.S., 2007. Thesis research: Impact of climate change stucture and function of High Arctic ecosystems in northwestern Greenland
 
-Universiyt of Utah, M.S., 2010. Thesis research: Air pollution deposition in Wasatch Mountain snowpack
+University of Utah, M.S., 2010. Thesis research: Air pollution deposition in Wasatch Mountain snowpack
 
 Utah Division of Air Quality, Environmental Scientist, 2010-2015
 
