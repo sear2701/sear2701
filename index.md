@@ -20,3 +20,6 @@ Seth Arens has worked as a research scientist for Western Water Assessment since
 ### Earth Science Data Analytics course
 * I am excited to learn how to code in Python and manage projkects with Github in order to work on large ecological and climate datasets.
 * I would like to use skills acquired in this class to work with climate model data and to analyze ecological data collected from a project assessing how ecosystems are re-establishing on landscapes that were once underwater in the Lake Powell region.
+  
+#### Map of University of Utah
+<embed type="text/html" src="img/uu.html" width="600" height="600">
