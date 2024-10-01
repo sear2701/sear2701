@@ -5,7 +5,7 @@
 * [sear2701@github.io](https://sear2701.github.io/sear2701/)
   
 ### Education and Professional Experience
-Colby College, B.A., 2001. Major: Biology/Ecology and Enviornmental Policy
+Colby College, B.A., 2001. Major: Biology/Ecology and Environmental Policy
 
 University of Alaska Anchorage, M.S., 2007. Thesis research: Impact of climate change stucture and function of High Arctic ecosystems in northwestern Greenland
 
