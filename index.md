@@ -13,7 +13,7 @@ University of Utah, M.S., 2010. Thesis research: Air pollution deposition in Was
 
 Utah Division of Air Quality, Environmental Scientist, 2010-2015
 
-Western Water Assessment, Cooperative Institute for REsearch in Environmental Science, University of Colorado Boulder, Research scientist, 2015-present
+Western Water Assessment, Cooperative Institute for Research in Environmental Science, University of Colorado Boulder, Research scientist, 2015-present
 
 ### Short professional biography
 Seth Arens has worked as a research scientist for Western Water Assessment since 2015. At WWA, Seth works with resource managers, agencies and different levels of government in Utah to help the state understand, prepare for and adapt to changes in climate. Since 2019, Seth has been working to understand how ecosystems are re-establishing in locations once flooded by Lake Powell. Seth has a diverse background in science, including research experience in ecosystem and plant physiological ecology, snow hydrology and atmospheric science. From 2010-2015, he worked as an environmental scientist for the Utah Division of Air Quality, where he developed a research program to assess the extent and causes of ozone pollution in Utah. Prior to working in Utah, Seth studied impacts of climate change on ecosystems and carbon cycling in the Alaskan and Greenland Arctic. In his free time, Seth enjoys rafting western rivers and backcountry skiing in the Wasatch and Teton Mountains with his wife, son, duaghter and dog, Daisy.
