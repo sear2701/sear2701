@@ -2,7 +2,7 @@
 ***
 ## Seth Arens
 * seth.arens@colorado.edu
-* [sear2701@github.io/sear2701](https://sear2701.github.io/sear2701/)
+* [sear2701@github.io](https://sear2701.github.io/sear2701/)
   
 ### Education and Professional Experience
 Colby College, B.A., 2001. Major: Biology/Ecology and Enviornmental Policy
