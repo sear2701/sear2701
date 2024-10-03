@@ -23,3 +23,6 @@ Seth Arens has worked as a research scientist for Western Water Assessment since
   
 #### Map of University of Utah
 <embed type="text/html" src="img/uu.html" width="600" height="600">
+
+#### Regression analysis of annual peak snow water equivalent from Boulder Mountain, UT
+[Link to analysis and python code](/posts/widtsoe_swe_regression.html)
